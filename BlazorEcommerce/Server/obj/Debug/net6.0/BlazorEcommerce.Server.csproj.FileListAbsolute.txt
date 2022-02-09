@@ -44,3 +44,8 @@ C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Server\
 C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\ref\BlazorEcommerce.Server.dll
 C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\BlazorEcommerce.Server.pdb
 C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\BlazorEcommerce.Server.genruntimeconfig.cache
+C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\BlazorEcommerce.Server.MvcApplicationPartsAssemblyInfo.cs
