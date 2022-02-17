@@ -822,3 +822,4 @@ C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Client\
 C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\ref\BlazorEcommerce.Client.dll
 C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\BlazorEcommerce.Client.pdb
 C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ProductList.razor.rz.scp.css
+C:\Users\tallm\OneDrive\Documents\GitHub\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css
